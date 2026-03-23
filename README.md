@@ -6,6 +6,7 @@ Thinkpad T470
 - Wi-Fi intel
 
 Maybe error in **OLARILA IMAGES**
+
 HDMI be tricky i dont know why just plug twice to work
 
 BIGSUR
